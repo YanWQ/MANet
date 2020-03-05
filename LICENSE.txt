@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2020 Yan Li, Lu Zhang, Qiong Wang, Gauthier Lafruit
+Université Libre de Bruxelles, Zhejiang University of Technology
+
+Copyright (c) 2020 Yan Li, Qiong Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
