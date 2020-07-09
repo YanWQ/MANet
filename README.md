@@ -1,7 +1,7 @@
 # MANet
 Oral presentation ICASSP 2020 Paper - [MANet: Multi-scale Aggregated Network For Light Field Depth Estimation](https://drive.google.com/open?id=17JqhbE_gYSG9OJEqWwT1qtDQ-xNBs0zI)
 
-New (2020.07.09)*We have created a large-scale wide-baseline light field dataset that you might be interested in, which is created for training the deep learning-based models for depth estimation. You might use this dataset for other purpose if possible. Please feel free to download from our new dataset from <a href="https://zenodo.org/record/3931237#.XwTVNxT7SaE">here (Part I)</a> and <a href="https://zenodo.org/record/3934712#.XwTTWRT7SaE">here (Part II)</a>
+New* (2020.07.09) We have created a large-scale wide-baseline light field dataset that you might be interested in, which is created for training the deep learning-based models for depth estimation. You might use this dataset for other purpose if possible. Please feel free to download from our new dataset from <a href="https://zenodo.org/record/3931237#.XwTVNxT7SaE">here (Part I)</a> and <a href="https://zenodo.org/record/3934712#.XwTTWRT7SaE">here (Part II)</a>
 
 # Table of Contents
 - [Architecture](#architecture)
